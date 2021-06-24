@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466751444558",
+    "project_id": "payflow-manieri",
+    "storage_bucket": "payflow-manieri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466751444558:android:8a2fb58c74eebd2aedd51f",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466751444558-4lgevpjilpvgjoejee90uip9m080lfe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "9469ef91a0abfd5767e35d2627d2a562532bb629"
+          }
+        },
+        {
+          "client_id": "466751444558-r5n3a3n2jcppn4junff1ofm99daqv3c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qFuWN57Fl7O08yMVdxv1it9VRzOSFNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466751444558-r5n3a3n2jcppn4junff1ofm99daqv3c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
