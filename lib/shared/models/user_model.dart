@@ -9,6 +9,7 @@ class UserModel {
   factory UserModel.fromMap(Map<String, dynamic> map) {
     return UserModel(name: map['name'], photoURL: map['pjotoURL']);
   }
+
   factory UserModel.fromJson(String json) =>
       UserModel.fromMap(jsonDecode(json));
 
